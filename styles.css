@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #aede9b;
+    font-family: Georgia;
+    box-sizing: border-box;
+}
+.box1{
+    background-color: #6f9460;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px #234d25;
+
+}
+.txtBox1{
+   text-align: center;
+   font-weight: bold;
+   color :#4d6643;
+   font-size: 25px
+}
+.btnConfig1 {
+    width: 100px; 
+    height: 30px; 
+    padding: 6px; 
+    background-color: #567d46; 
+    border-radius: 5px; 
+    border: dashed 2px #2a5734; 
+    margin: 10px; 
+    text-decoration: none; 
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    color: #234d25; 
+    font-weight: bold; 
+}
+.btnConfig1:hover{
+    background-color: #46567d;
+    border-radius: 5px;
+    border: dashed 2px #2a3b57;
+}
+.btnConfig{
+    width: 100px; 
+    height: 30px; 
+    padding: 6px; 
+    background-color: #567d46; 
+    border-radius: 5px; 
+    border: dashed 2px #2a5734; 
+    margin: 10px; 
+    text-decoration: none; 
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    color: #234d25; 
+    font-weight: bold; 
+}
+.btnConfig:hover{
+    background-color: #46567d;
+    border-radius: 5px;
+    border: dashed 2px #2a3b57;
+}
+.textoHTML{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    color:#234d25;
+}
+.containerImagens{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 300px;
+    gap: 20px;
+     
+}
+.ImagemHTML1{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    border:solid 2px#234d25;
+}
+.ImagemHTML2{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    border:solid 2px#234d25;
+}
+.textoCSS{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    color:#234d25;
+}
+.containerImagens2{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 300px;
+    gap: 20px;
+     
+}
+.CSS1{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    border:solid 2px#234d25;
+}
+.CSS2{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    border:solid 2px#234d25;
+}
+.Footer{
+    background-color: #6f9460;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px #234d25;
+}
+.textoFooter{
+    text-align: center;
+   font-weight: bold;
+   color :#4d6643;
+   font-size: 25px
+}
